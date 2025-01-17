@@ -7,14 +7,9 @@ For people who are addicted to using Twitch emotes everywhere and want to use th
 2. Apply the "emotes" CSS snippet in Obsidian ([help](https://help.obsidian.md/Extending+Obsidian/CSS+snippets)).
 
 # Usage
-Embed an image normally in Obsidian ([help](https://help.obsidian.md/Linking+notes+and+files/Embed+files)):
+Add `|e` to your image embeds like so ([see Obsidian docs for help on alt text usage in embedded images](https://help.obsidian.md/Linking+notes+and+files/Embed+files)):
 ```
-![[image.png]]
-```
-
-Turn the image into an emote:
-```
-![[image.png|emote]]
+![[image.png|e]]
 ```
 Personally, I keep a folder for emote images in my vault with all my notes to ensure **offline availability**, like so: 
 
